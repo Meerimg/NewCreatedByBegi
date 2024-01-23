@@ -10,6 +10,9 @@ public class zadachi {
         }
         System.out.println(operation("4","2","Multiple"));
         }
+
+
+
     public static int operation(String str, String str2,String str3){
         int a = Integer.parseInt(str);
         int b = Integer.parseInt(str2);
